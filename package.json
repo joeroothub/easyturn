@@ -1,0 +1,8 @@
+{
+  "name": "easyturn",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
+}
